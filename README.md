@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergi Joseph</h1>
-<h3 align="center">An experienced Systems Administrator transitioning into Web Development world</h3>
+<h3 align="center">An experienced Systems Administrator / Full Stack Web Developer</h3>
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, Linux and AWS**
 
