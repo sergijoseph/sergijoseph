@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergi Joseph</h1>
-<h3 align="center">An experienced Systems Administrator / Full Stack Web Developer</h3>
+<h3 align="center">An experienced System Administrator / Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, NodeJS, Linux and AWS**
+- 🌱 I am skilled in **React, JavaScript, NodeJS, Linux and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sergijoseph](https://github.com/sergijoseph)
 
